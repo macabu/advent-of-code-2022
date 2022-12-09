@@ -180,7 +180,7 @@ fn part_2(input: &str) -> usize {
 pub(crate) fn run() {
     let input = include_str!("../input/08.txt");
 
-    println!("Day 8");
+    println!("Day 08");
     println!("\tPart 1: {}", part_1(input));
     println!("\tPart 2: {}", part_2(input));
 }

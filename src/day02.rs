@@ -153,7 +153,7 @@ fn part_2(input: &str) -> i32 {
 pub(crate) fn run() {
     let input = include_str!("../input/02.txt");
 
-    println!("Day 2");
+    println!("Day 02");
     println!("\tPart 1: {}", part_1(input));
     println!("\tPart 2: {}", part_2(input));
 }
